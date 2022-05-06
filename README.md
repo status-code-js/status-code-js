@@ -4,7 +4,6 @@
 
 - I'm from 🇵🇱, currently living in 🇪🇸
 - I'm currently learning everything 🙂
-- Actually I'm working on [Digital Product Agency Website](https://github.com/status-code-js/digital-agency-website)
 - I love React 💻
 - I like walking 🏃‍♀️
 
