@@ -3,7 +3,6 @@
 # Front End Developer
 
 - I'm from 🇵🇱, currently living in 🇪🇸
-- I'm currently learning everything 🙂
 - I love React 💻
 - I like walking 🏃‍♀️
 
