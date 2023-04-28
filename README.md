@@ -2,7 +2,7 @@
 
 # Front End Developer
 
-- I'm from 🇵🇱, currently living in 🇪🇸
+- I'm half 🇵🇱, half 🇷🇺, currently living in 🇪🇸
 - I love React 💻
 - I like walking 🏃‍♀️
 
